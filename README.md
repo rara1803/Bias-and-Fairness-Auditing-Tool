@@ -42,6 +42,7 @@ The result is a dashboard that surfaces both *whether* a model is biased and *wh
 │   ├── utils.py             # Data loading and preprocessing helpers
 │   └── train_model.py       # Script to train a sample model pipeline
 ├── sample data/              # Example dataset(s) for trying out the tool
+├── sample model/              # Example model(s) for trying out the tool
 ├── .gitignore
 └── README.md
 ```
