@@ -1,0 +1,25 @@
+{
+  "dataset_path": "data/audit_ready_data.csv",
+  "model_path": "models/audit_ready_model.joblib",
+  "label_column": "income",
+  "sensitive_attributes": [
+    "race",
+    "gender"
+  ],
+  "feature_columns": [
+    "age",
+    "workclass",
+    "fnlwgt",
+    "education",
+    "educational-num",
+    "marital-status",
+    "occupation",
+    "relationship",
+    "race",
+    "gender",
+    "capital-gain",
+    "capital-loss",
+    "hours-per-week",
+    "native-country"
+  ]
+}
